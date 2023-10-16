@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+    <student>
+        <firstname>
+        </firstname>
+        <lastname>
+        </lastname>
+        <contact>
+        </contact>
+        <email>
+        </email>
+        <address>
+            <city></city>
+            <state></state>
+            <pin></pin>
+        </address>
+    </student>
+</college>
